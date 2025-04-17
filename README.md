@@ -4,7 +4,7 @@ A minimal example of building and evaluating a Decision Tree model for **Financi
 
 ## Contents
 - **decision_tree_in_FRM.ipynb** – step‑by‑step notebook  
-- **data.xlsx** – sample FRM dataset used in the notebook
+- **AAPL_financial_statements.xlsx** – sample FRM dataset used in the notebook
 
 ## Quick start
 ```bash
